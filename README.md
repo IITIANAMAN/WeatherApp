@@ -13,17 +13,6 @@ A modern and elegant Android weather app built using **Jetpack Compose**. This a
 - 🎨 **Jetpack Compose UI**: Clean, responsive, and animated
 - ⏳ **Loading and Error Handling**
 - 🌈 **Smooth UI Transitions & Effects**
-
----
-
-## 🖼️ Screenshots
-
-| Search Screen | Weather Details |
-|---------------|-----------------|
-| ![Search](screenshots/search.png) | ![Details](screenshots/details.png) |
-
-> 📌 *Replace the above image links with actual screenshot paths or remove this section if not available.*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -31,7 +20,7 @@ A modern and elegant Android weather app built using **Jetpack Compose**. This a
 - **Kotlin**
 - **Jetpack Compose**
 - **ViewModel + State Handling**
-- **OpenWeatherMap API** (or your preferred weather API)
+- **OpenWeatherMap API** 
 - **Coil** – for image loading
 - **Material3** – for design components
 
